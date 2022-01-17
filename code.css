@@ -49,7 +49,7 @@ body{
     padding: 42px;
 }
 
-.card h2{
+.card h1{
     font-family: 'Big Shoulders Display', cursive;
     text-transform: uppercase;
     color: hsl(0, 0%, 95%);
